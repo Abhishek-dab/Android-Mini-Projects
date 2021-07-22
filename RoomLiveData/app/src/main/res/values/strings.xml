@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoomLiveData</string>
+    <string-array name ="branch">
+
+        <item>CSE</item>
+        <item>Mech</item>
+        <item>ECE</item>
+        <item>EEE</item>
+
+
+    </string-array>
+</resources>
